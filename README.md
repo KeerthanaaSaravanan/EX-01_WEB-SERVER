@@ -1,5 +1,5 @@
 # Developing a Simple Webserver
-<<<<<<< HEAD
+
 Name:Keerthana Saravanan
 Ref.Number:23013398
 # AIM:
