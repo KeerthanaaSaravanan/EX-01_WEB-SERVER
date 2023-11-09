@@ -59,7 +59,9 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
+
 ![Alt text](images/output.png)
+
 # RESULT:
 
 The program is executed succesfully
