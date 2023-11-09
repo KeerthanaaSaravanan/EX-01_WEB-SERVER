@@ -3,6 +3,7 @@
 Name:Keerthana Saravanan
 Ref.Number:23013398
 Department:AI ML
+
 # AIM:
 
 Develop a webserver to display about top five web application development frameworks.
@@ -29,9 +30,36 @@ Serving the HTML pages.
 
 Testing the webserver
 # PROGRAM:
-Type your code here
-# OUTPUT:
+```
+from http.server import HTTPServer, BaseHTTPRequestHandler
 
+content="""
+
+<html>
+<head>
+</head>
+<body>
+<h1>Welcome</h1>
+</body>
+</html>
+"""
+
+class MyHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header('Content-type', 'text/html')
+        self.end_headers()
+        self.wfile.write(content.encode())
+
+
+server_address=('',80)
+httpd=HTTPServer(server_address,HelloHandler)
+httpd.serve_forever()
+
+```
+
+# OUTPUT:
+![Alt text](images/output.png)
 # RESULT:
 
 The program is executed succesfully
