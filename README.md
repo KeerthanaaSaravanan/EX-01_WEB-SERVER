@@ -59,8 +59,7 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-
-![Alt text](images/output.png)
+![output](https://github.com/KeerthanaaSaravanan/Web_server/assets/145742596/08c66f22-c9f7-4c62-ac9b-b8840e1da3ec)
 
 # RESULT:
 
