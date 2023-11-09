@@ -1,8 +1,8 @@
 # Developing a Simple Webserver
 
-Name:Keerthana Saravanan
-Ref.Number:23013398
-Department:AI ML
+Name: Keerthana Saravanan
+Ref.Number: 23013398
+Department: AI ML
 
 # AIM:
 
