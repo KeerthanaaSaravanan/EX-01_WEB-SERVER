@@ -1,7 +1,7 @@
 # EX-01: Developing a Simple Webserver
 '''
-# Developed by: KEERTHANA S
-# Register no: 23013398
+Developed by: KEERTHANA S
+Register no: 23013398
 '''
 # AIM:
 
