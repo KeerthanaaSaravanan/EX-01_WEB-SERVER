@@ -1,8 +1,7 @@
-# Developing a Simple Webserver
+# EX-01: Developing a Simple Webserver
 
-Name: Keerthana Saravanan
+Name: Keerthana S
 Ref.Number: 23013398
-Department: AI ML
 
 # AIM:
 
